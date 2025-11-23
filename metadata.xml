@@ -8,7 +8,7 @@
   <dc:date>2025-11-30</dc:date>
   <dc:type>DataGeneration and Analysis</dc:type>
   <dc:format>Jupyter Notebook (.ipynb), CSV, PDF, PNG</dc:format>
-  <dc:source>Annual Hours Worked: Eurostat (Table tec00116)</dc:source>
+  <dc:source>Annual Hours Worked: Eurostat (Table tps00071)</dc:source>
   <dc:source>Productivity: OECD.Stat (Productivity and ULC)</dc:source>
   <dc:language>English</dc:language>
   <dc:coverage>2014 - 2024</dc:coverage>
