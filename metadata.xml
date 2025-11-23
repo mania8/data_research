@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Analysis of Correlation Between Working Time Duration and Productivity Index in EU and OECD Countries</dc:title>
+  <dc:creator>Marianna Krzeminska (https://orcid.org/[0009-0002-9123-9377])</dc:creator>
+  <dc:subject>Working Hours and Productivity Correlation</dc:subject>
+  <dc:description>Automated tool and dataset that investigates the statistical correlation between the average annual hours worked per employee and labour productivity (GDP per hour in PPP) in selected EU and OECD countries (2015-2024).</dc:description>
+  <dc:date>2025-11-30</dc:date>
+  <dc:type>DataGeneration and Analysis</dc:type>
+  <dc:format>Jupyter Notebook (.ipynb), CSV, PDF, PNG</dc:format>
+  <dc:source>Annual Hours Worked: Eurostat (Table tec00116)</dc:source>
+  <dc:source>Productivity: OECD.Stat (Productivity and ULC)</dc:source>
+  <dc:language>English</dc:language>
+  <dc:coverage>2014 - 2024</dc:coverage>
+  <dc:rights>Creative Commons Attribution 4.0 International (CC BY 4.0)</dc:rights>
+</metadata>
