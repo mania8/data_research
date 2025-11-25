@@ -53,5 +53,3 @@ The main results, including the statistical interpretation of the correlation co
 
 * **Code:** MIT License
 * **Data & Documentation:** Creative Commons Attribution 4.0 International (CC BY 4.0)
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17708743.svg)](https://doi.org/10.5281/zenodo.17708743)
