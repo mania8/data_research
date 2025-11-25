@@ -1,3 +1,4 @@
+ DOI: 10.5281/zenodo.17708743
 # Correlating Working Time Duration and Productivity in EU and OECD Countries
 
 This experiment aims to explore the connection between the average annual hours worked per employee and labour productivity (GDP per hour worked) across selected European and OECD countries for the period 2014-2024.
