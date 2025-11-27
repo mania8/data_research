@@ -38,7 +38,7 @@ In the `notebooks` folder you'll find the following notebook:
 
 Running this notebook generates a dataset consisting of harmonized working hours and productivity data by preprocessing, filtering, and fusing the data provided by the datasources mentioned above. It then performs a Pearson correlation analysis.
 
-The resulting dataset is located at `data/final_data_for_analysis.csv`
+The resulting dataset is located at `data/combined/final_data_for_analysis.csv`
 
 This notebook also generates a plot to visualize correlations between the data points.
 
