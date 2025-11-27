@@ -2,7 +2,7 @@
 
 **Author:** Marianna Krzeminska
 **Affiliation:** TU Wien
-**Date:** November 2025
+**Date:** 27 November 2025
 **ORCID:** 0009-0002-9123-9377
 
 This experiment aims to explore the connection between the average annual hours worked per employee and labour productivity (GDP per hour worked) across selected European and OECD countries for the period 2014-2024.
