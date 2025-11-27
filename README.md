@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.1234%2Ftuwien.12345-blue)](https://doi.org/10.70124/1t017-vmk05)
+
 # Correlating Working Time Duration and Productivity in EU and OECD Countries
 
 **Author:** Marianna Krzeminska
